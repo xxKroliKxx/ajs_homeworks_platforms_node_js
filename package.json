@@ -1,0 +1,23 @@
+{
+  "name": "@xxkrolikxx/ajs_homeworks_platforms_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxKroliKxx/ajs_homeworks_platforms_node_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxKroliKxx/ajs_homeworks_platforms_node_js/issues"
+  },
+  "homepage": "https://github.com/xxKroliKxx/ajs_homeworks_platforms_node_js#readme",
+  "dependencies": {
+    "@xxkrolikxx/ajs_homeworks_platforms": "^1.0.0"
+  }
+}
